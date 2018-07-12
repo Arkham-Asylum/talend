@@ -110,7 +110,7 @@
     <routinesParameter id="_Dckm8IXtEeiGlsn9O3aEyA" name="TalendStringUtil"/>
     <routinesParameter id="_DchjoIXtEeiGlsn9O3aEyA" name="TalendString"/>
   </parameters>
-  <node componentName="tHDFSInput" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="448" posY="160">
+  <node componentName="tHDFSInput" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="352" posY="160">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tHDFSInput_1" show="false"/>
     <elementParameter field="TECHNICAL" name="PROPERTY:PROPERTY_TYPE" value="REPOSITORY"/>
     <elementParameter field="TECHNICAL" name="PROPERTY:REPOSITORY_PROPERTY_TYPE" value="_we0U8IYXEeizdLPE8kOaMA" show="false"/>
