@@ -9,7 +9,6 @@
     <documentationStatus xmi:id="_DPnwEoXtEeiGlsn9O3aEyA" label="validated" code="VAL"/>
     <ItemsRelations xmi:id="_IN0g4IYYEeizdLPE8kOaMA">
       <baseItem xmi:id="_IN0g4YYYEeizdLPE8kOaMA" id="_smsCQIYWEeizdLPE8kOaMA" version="0.1" type="job"/>
-      <relatedItems xmi:id="_IN0g4oYYEeizdLPE8kOaMA" id="_we0U8IYXEeizdLPE8kOaMA" version="Latest" type="property"/>
       <relatedItems xmi:id="_IN0g44YYEeizdLPE8kOaMA" id="SQLike" version="Latest" type="routine"/>
       <relatedItems xmi:id="_IN0g5IYYEeizdLPE8kOaMA" id="Numeric" version="Latest" type="routine"/>
       <relatedItems xmi:id="_IN0g5YYYEeizdLPE8kOaMA" id="TalendString" version="Latest" type="routine"/>
