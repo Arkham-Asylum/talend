@@ -4,7 +4,7 @@
     <contextParameter comment="" name="dataDir" prompt="dataDir?" promptNeeded="false" repositoryContextId="_LruuwIazEei6pIRz4iMomw" type="id_String" value="D:\Files\"/>
     <contextParameter comment="" name="rowSeparator" prompt="rowSeparator?" promptNeeded="false" repositoryContextId="_LruuwIazEei6pIRz4iMomw" type="id_String" value="\n"/>
     <contextParameter comment="" name="fieldSeparator" prompt="fieldSeparator?" promptNeeded="false" repositoryContextId="_LruuwIazEei6pIRz4iMomw" type="id_String" value="\t"/>
-    <contextParameter comment="" name="hdfsDir" prompt="hdfsDir?" promptNeeded="false" repositoryContextId="_LruuwIazEei6pIRz4iMomw" type="id_String" value="/home/cloudera/Documents/Files"/>
+    <contextParameter comment="" name="hdfsDir" prompt="hdfsDir?" promptNeeded="false" repositoryContextId="_LruuwIazEei6pIRz4iMomw" type="id_String" value="/user/cloudera/"/>
   </context>
   <parameters>
     <elementParameter field="TEXT" name="SCREEN_OFFSET_X" value="0" show="false"/>
