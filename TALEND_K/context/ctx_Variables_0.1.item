@@ -2,5 +2,5 @@
 <talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_Lr5t4IazEei6pIRz4iMomw" confirmationNeeded="false" name="Default">
   <contextParameter xmi:id="_Lr5t4YazEei6pIRz4iMomw" comment="" name="dataDir" prompt="dataDir?" promptNeeded="false" type="id_String" value="D:\Files\"/>
   <contextParameter xmi:id="_bu7soIazEei6pIRz4iMomw" comment="" name="rowSeparator" prompt="rowSeparator?" promptNeeded="false" type="id_String" value="\n"/>
-  <contextParameter xmi:id="_bu7soYazEei6pIRz4iMomw" comment="" name="fieldSeparator" prompt="fieldSeparator?" promptNeeded="false" type="id_String" value=";"/>
+  <contextParameter xmi:id="_bu7soYazEei6pIRz4iMomw" comment="" name="fieldSeparator" prompt="fieldSeparator?" promptNeeded="false" type="id_String" value="\t"/>
 </talendfile:ContextType>
