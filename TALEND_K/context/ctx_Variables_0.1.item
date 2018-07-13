@@ -3,4 +3,5 @@
   <contextParameter xmi:id="_Lr5t4YazEei6pIRz4iMomw" comment="" name="dataDir" prompt="dataDir?" promptNeeded="false" type="id_String" value="D:\Files\"/>
   <contextParameter xmi:id="_bu7soIazEei6pIRz4iMomw" comment="" name="rowSeparator" prompt="rowSeparator?" promptNeeded="false" type="id_String" value="\n"/>
   <contextParameter xmi:id="_bu7soYazEei6pIRz4iMomw" comment="" name="fieldSeparator" prompt="fieldSeparator?" promptNeeded="false" type="id_String" value="\t"/>
+  <contextParameter xmi:id="_eD5GIIblEei6pIRz4iMomw" comment="" name="hdfsDir" prompt="hdfsDir?" promptNeeded="false" type="id_String" value="/home/cloudera/Documents/Files"/>
 </talendfile:ContextType>
